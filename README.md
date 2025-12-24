@@ -6,12 +6,11 @@ This repository contains my daily SQL practice, concepts, and mini projects.
 - Created table with constraints  
 - Practiced SELECT query  
 
-# 📅 Day 02 – SQL: Creating & Altering Tables
-
-## 📌 Topics Covered
+##  Day 02 – SQL: Creating & Altering Tables
 
 - Creating databases and tables  
 - Using constraints (`PRIMARY KEY`, `UNIQUE`, `NOT NULL`)  
 - Altering table structure  
 - Adding, modifying, and dropping columns  
 - Understanding warnings and errors in MySQL 
+
