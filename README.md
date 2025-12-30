@@ -51,3 +51,12 @@ This repository contains my daily SQL practice, concepts, and mini projects.
 - Always used with a WHERE clause to avoid updating all rows
 - Handling NULL values using IS NULL
 
+
+
+# Day 05 – Foreign Key (MySQL)
+
+
+- Foreign Key
+- Parent and Child tables
+- Relationship between tables
+- Practiced foreign key queries
