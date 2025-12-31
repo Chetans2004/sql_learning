@@ -60,3 +60,17 @@ This repository contains my daily SQL practice, concepts, and mini projects.
 - Parent and Child tables
 - Relationship between tables
 - Practiced foreign key queries
+
+
+#  Day 06 – Joins & Unions in MySQL
+
+##  Topics Covered
+- SQL JOINS
+- Types of JOINS
+- UNION
+- UNION ALL
+- Practical Examples
+
+
+
+
