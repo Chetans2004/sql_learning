@@ -72,5 +72,19 @@ This repository contains my daily SQL practice, concepts, and mini projects.
 - Practical Examples
 
 
+# Day 7 – Indexes, Self Join & Views
+
+####  Indexes
+- Improve query performance
+- Speed up data retrieval
+- Used with `WHERE`, `JOIN`, `ORDER BY`
+####  Self Join
+- Joining a table with itself
+- Useful for hierarchical data (Employee–Manager relationship)
+- Uses table aliases to differentiate the same table
 
 
+#### Views
+- Virtual table created from a SQL query
+- Used to simplify complex queries
+- Improves security and reusability
