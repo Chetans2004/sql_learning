@@ -88,3 +88,11 @@ This repository contains my daily SQL practice, concepts, and mini projects.
 - Virtual table created from a SQL query
 - Used to simplify complex queries
 - Improves security and reusability
+
+#  – Day 8 :Subqueries
+
+### What I Learned
+- Basics of SQL subqueries
+- Using subqueries with `IN` and `NOT IN`
+- Filtering data using nested queries
+- Finding enrolled, non-enrolled, and duplicate records
